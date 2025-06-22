@@ -108,7 +108,7 @@ Create a `.env.local` file with:
 ```env
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_key
-AI_API_KEY=your_groq_or_llm_key
+AI_API_KEY=your_llm_key
 ```
 
 ### 4. Run the App
@@ -124,7 +124,7 @@ npm run dev
 * **Next.js**, **React**, **TypeScript**
 * **Supabase**, **PostgreSQL**
 * **Tailwind CSS**, **shadcn/ui**
-* **Groq AI / Llama / Gemma Models**
+* **AI / Llama / Gemma Models**
 * **Recharts**, **Lucide Icons**
 
 ---
