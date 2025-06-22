@@ -1,8 +1,3 @@
-Here's the updated GitHub `README.md` with your **deployed website link** (`https://carbon-tracker-delta.vercel.app/`) and a short explanation included in a new **Live Demo** section:
-
----
-
-````md
 # 🌍 EcoTracker - AI-Powered Carbon Footprint Monitor
 
 EcoTracker is a comprehensive carbon footprint tracking application that combines AI-powered analysis, social features, and gamification to help users monitor and reduce their environmental impact. Built with modern web technologies and powered by advanced AI models, it provides accurate EPA-based carbon calculations and personalized sustainability insights.
@@ -153,4 +148,4 @@ For questions or collaborations:
 
 ---
 
-```
+
