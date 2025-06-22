@@ -1,14 +1,12 @@
 import { createGroq } from "@ai-sdk/groq"
 import { generateText } from "ai"
-import * as dotenv from 'dotenv'
-import path from 'path'
+
 
 // Load from .env.local specifically
-dotenv.config({ path: path.resolve(__dirname, '../.env.local') })
-
 const groq = createGroq({
   apiKey: process.env.GROQ_API_KEY || '',
-})
+});
+
 
 
 // Model selection based on task complexity
