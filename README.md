@@ -137,7 +137,7 @@ We welcome contributions to improve EcoTracker! Fork the repo, make your changes
 ## 📬 Contact
 
 For questions or collaborations:
-**Anandhu Biju** – [LinkedIn](https://www.linkedin.com/in/anandhubiju)
+**Anandhu Biju** – [LinkedIn](https://www.linkedin.com/in/anandhu-biju-92b897202/)
 
 ---
 
