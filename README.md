@@ -31,7 +31,7 @@ This deployed version showcases EcoTracker's full functionality including AI-pow
 
 ### 🤖 AI Integration
 
-Powered by the **Groq AI Platform** with multiple LLMs:
+Powered by the **AI Platform** with multiple LLMs:
 - `Llama 3.3 70B Versatile` – Complex analysis
 - `Llama 3.1 8B Instant` – Fast lightweight tasks
 - `Gemma2 9B IT` – General purpose operations
@@ -133,13 +133,6 @@ npm run dev
 
 We welcome contributions to improve EcoTracker! Fork the repo, make your changes, and submit a PR.
 
----
-
-## 📄 License
-
-[MIT License](LICENSE)
-
----
 
 ## 📬 Contact
 
