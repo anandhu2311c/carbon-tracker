@@ -3,7 +3,7 @@ import { generateText } from "ai"
 
 // Initialize Groq client
 const groq = createGroq({
-  apiKey: process.env.GROQ_API_KEY || "",
+  apiKey: process.env.GROQ_API_KEY || "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",
 })
 
 // Model selection based on task complexity
