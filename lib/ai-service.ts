@@ -1,10 +1,13 @@
 import { createGroq } from "@ai-sdk/groq"
 import { generateText } from "ai"
 
-// Initialize Groq client
+
+// Load from .env.local specifically
 const groq = createGroq({
-  apiKey: process.env.GROQ_API_KEY || "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",
-})
+  apiKey: process.env.GROQ_API_KEY || '',
+});
+
+
 
 // Model selection based on task complexity
 const MODELS = {
